@@ -6,9 +6,10 @@ Collected earthquake data from various sources and analyzed it using Tableau to 
 
 <h3> OBJECTIVES </H3>
 1. Earthquickes occured compared to magnitude
-2. Depths of earthquicks in Km.
-3. Toal earthquickes by place
-4. Total earthquickes by year and type 
-5. Total earthquickes by months and type of magnitude
-6. Earthquickes details with NST
-7. Location quality parameters
+
+3. Depths of earthquicks in Km.
+4. Toal earthquickes by place
+5. Total earthquickes by year and type 
+6. Total earthquickes by months and type of magnitude
+7. Earthquickes details with NST
+8. Location quality parameters
